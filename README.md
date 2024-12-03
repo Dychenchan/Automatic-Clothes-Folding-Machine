@@ -1,2 +1,2 @@
 # Automatic-Clothes-Folding-Machine
-Automatic Clothes Folding Machine, Using 3D print parts, PCA9685 Servo driver and a Raspberry Pi Pico
+This project was made to automate some daily task through robotic application. This Project will utilise a Raspberry Pi Pico to control Servo motors using a PCA9685 servo driver. Furthermore, the aim of this project is to excerise my technical skills as well as learning new skills, from 3D moduling, electrical wiring and programming. I created this repository to document my project and progress, at time same time hoping to contribute in some way for those trying to use Pi Pico with PCA9685 board, as I personally struggled with libraries and error code issue earlier on during the project.
